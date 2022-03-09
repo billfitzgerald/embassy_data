@@ -1,0 +1,126 @@
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Afghanistan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Albania.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Algeria.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Angola.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Argentina.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Armenia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Australia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Austria.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Azerbaijan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bahamas.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bahrain.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bangladesh.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Barbados.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Belarus.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Belgium.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Belize.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Benin.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bolivia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bosnia and Herzegovina.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Brazil.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Bulgaria.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Cambodia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Canada.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Central African Republic.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Chile.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/China.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Colombia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Costa Rica.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Croatia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Cuba.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Cyprus.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Czech Republic.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Denmark.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Ecuador.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Egypt.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/El Salvador.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Equatorial Guinea.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Estonia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Ethiopia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Finland.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/France.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Georgia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Germany.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Ghana.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Greece.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Greenland.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Grenada.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Hungary.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/India.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Indonesia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Iran.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Iraq.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Ireland.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Israel.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Italy.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Jamaica.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Japan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Jordan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Kazakhstan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Kosovo.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Kuwait.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Kyrgyzstan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Laos.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Latvia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Lebanon.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Liberia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Libya.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Lithuania.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Macedonia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Madagascar.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Malaysia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Malta.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Mauritius.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Mexico.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Moldova.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Monaco.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Mongolia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Morocco.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Netherlands.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/New Zealand.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Norway.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Oman.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Pakistan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Palestine.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Panama.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Peru.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Philippines.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Poland.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Portugal.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Qatar.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Romania.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Russia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/San Marino.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Saudi Arabia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Senegal.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Serbia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Seychelles.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Sierra Leone.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Singapore.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Slovakia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Slovenia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/South Africa.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/South Korea.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Spain.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Sri Lanka.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Sudan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Sweden.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Switzerland.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Syria.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Taiwan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Tajikistan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Tanzania.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Thailand.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Tunisia.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Turkey.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Turkmenistan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Uganda.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Ukraine.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/United Arab Emirates.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/United Kingdom.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/United States.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Uruguay.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Uzbekistan.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Venezuela.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Vietnam.png
+https://www.embassy-worldwide.com/wp-content/plugins/embassy/images/flags/Yemen.png
